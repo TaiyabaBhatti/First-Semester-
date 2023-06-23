@@ -1,2 +1,2 @@
-# First-Semester-
-A Repository that conatins all the basic and advance C++ programs like, Loops, Functions, Structures, Arrays, Object Oriented Programming.
+# First-Semester
+A Repository that contains all the basic and advanced C++ programs like Loops, Functions, Structures, Arrays, Object Oriented Programming.
